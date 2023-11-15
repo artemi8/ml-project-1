@@ -1,11 +1,11 @@
 .ipynb_checkpoints/
+
+# Datasets
+
 auto_mpg/
 mushroom/
-mushroom_data_exploration.ipynb
-mushroom_ydata_report.html
-solarflare/
-solarflare_v1.ipynb
-sunflare_data1_ydata_report.html
-sunflare_data2_ydata_report.html
-traffic_flow/
-traffic_flow_dataset.ipynb
+
+# Misc
+mushroom_ydata_report.html 
+submission_ready/
+report_images/
